@@ -14,5 +14,36 @@ The structure of the website is simple: The main page (index.html) links to thre
 
 ## Skills Demonstrated
 
-* This section is in progress
+***This section is in progress*** 
 
+### Project
+* Analyze and critically think about how to approach the project specifications.
+* Plan how to tackle each portion of the project.
+Execute the plan, making modifications as needed.
+* Select the proper tools and resources to complete each task
+
+### HTML
+* Write boilerplate HTML basic page structure and HTML tags without assistance from an IDE or extensions to include:
+  * DOCTYPE, html, head, meta, title, body
+  * Accessibility: alt
+  * Headings: h1 through h6
+  * Images: img
+  * Links: a
+  * Ordered lists: ol/li
+  * Paragraphs: p
+  * Unordered lists: ul/li
+
+### Git
+* Set up
+* Stage
+* Commit
+* Amend
+* Log
+* Diff
+
+### Github
+* Set up
+* GPG: signing my work
+* SSH: encryption
+* Create Repository
+* README
