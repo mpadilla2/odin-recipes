@@ -47,3 +47,11 @@ Execute the plan, making modifications as needed.
 * SSH: encryption
 * Create Repository
 * README
+
+## License
+
+***This section is in progress*** 
+
+## How to contribute
+
+***This section is in progress*** 
